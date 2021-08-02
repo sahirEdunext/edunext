@@ -1,0 +1,38 @@
+.slick-slide .comitee-img {
+    width: auto;
+    height: auto;
+    object-fit: initial;
+    border-radius: 8px;
+}
+
+.commitee-slide {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.commitee-slide i.fa.fa-chevron-left {
+    font-size: 16px;
+    color: #f46b17;
+}
+
+.commitee-slide i.fa.fa-chevron-right {
+    font-size: 16px;
+    color: #f46b17;
+}
+
+
+.commitee-slide button.slick-prev.slick-arrow {
+    font-size: 11px;
+    border: none;
+    background: transparent;
+}
+
+.commitee-slide button.slick-next.slick-arrow {
+    font-size: 11px;
+     border: none;
+    background: transparent;
+}

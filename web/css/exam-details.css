@@ -1,0 +1,56 @@
+.examdetail{
+margin-bottom: 50px;
+}
+
+
+.head {
+    width: 100%;
+    padding: 16px;
+    background: #D1FFF9;
+    
+}
+.exam-detail {
+    margin: 30px 0px;
+}
+
+.head h1 {
+    font-size: 18px;
+    margin: 0;
+    float: left;
+    padding: 0;
+    text-transform: uppercase;
+}
+#sticky-wrapper {
+    box-shadow: 0 0 10px rgb(0 0 0 / 13%);
+}
+
+.details-card b {
+    color: #F58020;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 35px;
+}
+.details-card p {
+    font-size: 14px;
+    font-weight: 300;
+   
+}
+.details-card span {
+    color: #14B9A4;
+    font-size: 14px;
+    font-weight: 500;
+    display: block;
+    line-height: 24px;
+    padding-bottom: 5px;
+}
+.details-card {
+    color: #727272;
+        background: #FFFCF9;
+    max-width: 550px;
+    margin: 10px;
+    float: left;
+    border-left: 5px solid #14B9A4;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 0px 3px 6px #00000029;
+}

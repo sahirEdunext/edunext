@@ -1,0 +1,328 @@
+/* ----------- iPhone 4 and 4S ----------- */
+@media screen and (max-width:320px) {
+    h3.main-heading, .main-heading-blog {
+        font-size: 18px !important;
+    }
+
+    .learn-test-logo img {
+        max-width: 200px;
+    }
+
+    .card.card-1 img {
+        width: 100%;
+    }
+
+    .card {
+        width: 290px;
+    }
+
+    .olympiad-boxes .olympiad-content h5 {
+        font-size: 14px !important;
+    }
+
+    p.title-tag {
+        font-family: SourceSansPro-SemiBold !important;
+
+        font-size: 12px !important;
+    }
+
+    .registration-content h4 {
+        font-size: 14px !important;
+        margin-bottom: 10px;
+    }
+
+    .registration-content p {
+        font-size: 12px;
+    }
+
+    .olmy-inner {
+        float: none;
+        padding: 0px 0px !important;
+    }
+
+    .olmy-syllabus {
+        padding: 0px;
+    }
+
+    .exam-btn {
+        margin-left: 0 !important;
+        width: 220px !important;
+    }
+
+    .syllabus-inner, .classes-list, .exam-inner, .register-online-section {
+        padding: 0 !important;
+    }
+
+    .blog-item-slide {
+        padding: 0px !important;
+    }
+
+    .committee-card {
+        padding: 0;
+    }
+
+    .clc-content h4 {
+        font-size: 14px !important;
+    }
+
+    .clc-content p {
+        font-size: 12px !important;
+    }
+
+    .clc-content {
+        flex: 20% !important;
+    }
+
+    .clc-button, .btn-custom1, .exam-btn a {
+        font-size: 10px !important
+    }
+
+    .blog-content {
+        flex: 0%;
+        margin-right: 0px !important;
+    }
+
+    .title-tag-blog {
+        width: 100%;
+    }
+
+    .blog-top {
+        align-items: baseline;
+    }
+
+    .committee-card-portion {
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+
+    .committee-card-portion img {
+        display: inline-block;
+    }
+
+}
+
+@media screen and  (max-width:360px) {
+    .learn-test-logo img {
+        max-width: 200px;
+    }
+
+}
+
+@media screen and (min-width:320px) and (max-width:767px) {
+    .text-peo p {
+        padding: 0 10px 0 10px;
+    }
+
+    .footer-style03 {
+        padding: 50px 0px 0px 0px;
+    }
+
+    .classlist-card {
+        margin: 22px 0px 0px 0px !important;
+    }
+
+    .footside img {
+        max-width: 100%;
+        height: auto;
+        width: auto;
+    }
+
+    .footside img {
+        width: auto;
+        height: auto;
+        display: none;
+    }
+
+    .card {
+        display: block;
+        width: 300px;
+        margin: 6px auto;
+        text-align: center;
+    }
+
+    .advisory-bot b {
+        display: block;
+        text-align: left;
+    }
+
+}
+
+@media screen and (min-width:360px) and (max-width:767px) {
+    li.sideline:after {
+        display: none !important;
+    }
+
+    section.olympiad-section {
+        padding: 20px 0;
+    }
+
+    p.title-tag {
+        width: 100% !important;
+    }
+
+    .olympiad-boxes {
+        margin: 10px 0 20px 0px !important;
+    }
+
+
+    .background-exam {
+        padding: 20px 20px;
+    }
+
+
+    .exam-btn span {
+        font-size: 12px;
+    }
+
+    .exam-btn {
+        width: 250px !important;
+        margin-left: 0 !important;
+        padding: 5px 20px !important;
+        font-size: 12px !important;
+    }
+
+    .registration-boxes {
+        padding: 10px 20px 20px 20px;
+        margin: 10px 0px;
+    }
+
+    .syllabus-inner, .classes-list, .exam-inner, .register-online-section {
+        padding: 0 !important;
+    }
+
+    .number-style span {
+        color: #A4A4A4;
+        font-size: 35px !important;
+        line-height: 1;
+        margin-right: 10px;
+        margin-top: 9px;
+    }
+
+    .registration-content p {
+        color: #7E7E7E;
+        font-size: 12px;
+        opacity: 1;
+    }
+
+    .registration-content h4 {
+        margin-bottom: 5px;
+        line-height: 1.5;
+        font-size: 17px !important;
+    }
+
+    .classlist-card {
+        margin: 22px 0px 0px 0px !important;
+    }
+
+    .clc-content {
+        flex: 35% !important;
+    }
+
+    .blog-content {
+        flex: 70%;
+        margin-right: 0px !important;
+    }
+
+    .blog-top {
+        align-items: baseline;
+    }
+
+    .blog-item-slide {
+        padding: 0px !important;
+    }
+
+    .committee-card {
+        padding: 0;
+    }
+
+    .committee-card-portion {
+        margin-top: 15px;
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+
+    .committee-card-portion img {
+        display: inline-block;
+    }
+
+}
+
+@media screen and (max-width:823px) {
+    .syllabus-inner {
+        padding: 0px;
+    }
+
+    /*.exam-btn {*/
+        /*width: 100% !important;*/
+    /*}*/
+
+    /*  .footside img {
+         width: auto;
+         height: auto;
+         display: none;
+     }
+  */
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .navbar-nav {
+        float: none;
+    }
+
+    header .main-menu nav.navbar .nav-container {
+        float: left;
+    }
+
+    div#sticky-wrapper {
+        height: 60px !important;
+    }
+
+
+
+    .olmy-logo-right-menu .navbar-brand {
+        float: left;
+        height: 60px;
+        padding: 13px 0px;
+        font-size: 18px;
+        line-height: 20px;
+        display: block;
+    }
+
+    .sign-section {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .sign-left-menu{
+        padding:0;
+    }
+
+    .clc-content {
+        flex: 35% !important;
+    }
+
+    .blog-content {
+        margin-right: 0px !important;
+        flex: 75%;
+    }
+
+
+    .exam-btn {
+        width: 100% !important;
+    }
+
+}
+
+@media screen and (min-width:320px) and (max-width:1365px) {
+    .syllabus-inner, .exam-inner, .classes-list, .committee-card {
+        padding: 0px !important;
+    }
+
+    .exam-btn {
+        margin-left: 0 !important;
+    }
+
+}

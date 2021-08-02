@@ -1,0 +1,571 @@
+/* Start font section  */
+
+
+/* sofia */
+
+
+/* 1 */
+
+@font-face {
+    font-family: Sofia Pro Black Az;
+    src: url(../fonts/Sofia%20Pro%20Black%20Az.otf);
+}
+
+
+/* 2 */
+
+@font-face {
+    font-family: Sofia Pro Black Italic Az;
+    src: url(../fonts/Sofia%20Pro%20Black%20Italic%20Az.otf);
+}
+
+
+/* 3 */
+
+@font-face {
+    font-family: Sofia-Pro-Bold;
+    src: url(../fonts/Sofia-Pro-Bold.otf);
+}
+
+
+/* 4 */
+
+@font-face {
+    font-family: Sofia Pro ExtraLight Az;
+    src: url(../fonts/Sofia%20Pro%20ExtraLight%20Az.otf);
+}
+
+
+/* 5 */
+
+@font-face {
+    font-family: Sofia Pro ExtraLight Italic Az;
+    src: url(../fonts/Sofia%20Pro%20ExtraLight%20Italic%20Az.otf);
+}
+
+
+/* 6 */
+
+@font-face {
+    font-family: Sofia Pro Light Az;
+    src: url(../fonts/Sofia%20Pro%20Light%20Az.otf);
+}
+
+
+/* 7 */
+
+@font-face {
+    font-family: Sofia Pro Light Italic Az;
+    src: url(../fonts/Sofia%20Pro%20Light%20Italic%20Az.otf);
+}
+
+
+/* 8 */
+
+@font-face {
+    font-family: Sofia-Pro-Medium;
+    src: url(../fonts/Sofia-Pro-Medium.otf);
+}
+
+
+/* 9 */
+
+@font-face {
+    font-family: Sofia-Pro-Medium-Italic;
+    src: url(../fonts/Sofia-Pro-Medium-Italic.html);
+}
+
+
+/* 10 */
+
+@font-face {
+    font-family: Sofia-Pro-Regular;
+    src: url(../fonts/Sofia-Pro-Regular.otf);
+}
+
+
+/* 11 */
+
+@font-face {
+    font-family: Sofia Pro Regular Italic Az;
+    src: url(../fonts/Sofia%20Pro%20Regular%20Italic%20Az.otf);
+}
+
+
+/* 12 */
+
+@font-face {
+    font-family: sofia-pro-semi-bold;
+    src: url(../fonts/Sofia-Pro-Semi-Bold.otf);
+}
+
+
+/* 13 */
+
+@font-face {
+    font-family: Sofia Pro Semi Bold Italic Az;
+    src: url(../fonts/Sofia%20Pro%20Semi%20Bold%20Italic%20Az.otf);
+}
+
+
+/* 
+SourceSansPro-Black */
+
+
+/* 1 */
+
+@font-face {
+    font-family: SourceSansPro-Black;
+    src: url(../fonts/SourceSansPro-Black.ttf);
+}
+
+
+/* 2 */
+
+@font-face {
+    font-family: SourceSansPro-BlackItalic;
+    src: url(../fonts/SourceSansPro-BlackItalic.ttf);
+}
+
+
+/* 3 */
+
+@font-face {
+    font-family: SourceSansPro-Bold;
+    src: url(../fonts/SourceSansPro-Bold.ttf);
+}
+
+
+/* 4 */
+
+@font-face {
+    font-family: SourceSansPro-BoldItalic;
+    src: url(../fonts/SourceSansPro-BoldItalic.ttf);
+}
+
+
+/* 5 */
+
+@font-face {
+    font-family: SourceSansPro-ExtraLight;
+    src: url(../fonts/SourceSansPro-ExtraLight.ttf);
+}
+
+
+/* 6 */
+
+@font-face {
+    font-family: SourceSansPro-ExtraLightItalic;
+    src: url(../fonts/SourceSansPro-ExtraLightItalic.ttf);
+}
+
+
+/* 7 */
+
+@font-face {
+    font-family: SourceSansPro-Italic;
+    src: url(../fonts/SourceSansPro-Italic.ttf);
+}
+
+
+/* 8 */
+
+@font-face {
+    font-family: SourceSansPro-Light;
+    src: url(../fonts/SourceSansPro-Light.ttf);
+}
+
+
+/* 9 */
+
+@font-face {
+    font-family: SourceSansPro-LightItalic;
+    src: url(../fonts/SourceSansPro-LightItalic.ttf);
+}
+
+
+/* 10 */
+
+@font-face {
+    font-family: SourceSansPro-Regular;
+    src: url(../fonts/SourceSansPro-Regular.ttf);
+}
+
+
+/* 11 */
+
+@font-face {
+    font-family: SourceSansPro-SemiBold;
+    src: url(../fonts/SourceSansPro-SemiBold.ttf);
+}
+
+
+/* 12 */
+
+@font-face {
+    font-family: SourceSansPro-SemiBoldItalic;
+    src: url(../fonts/SourceSansPro-SemiBoldItalic1.html);
+}
+
+
+/* 13 */
+
+@font-face {
+    font-family: segoe-ui-bold;
+    src: url(../fonts/Segoe-UI-Bold.woff);
+}
+
+@font-face {
+    font-family: Segoe-UI;
+    src: url(../fonts/Segoe-UI.woff);
+}
+
+@font-face {
+    font-family: hind-bold;
+    src: url(../fonts/Hind-Bold.ttf);
+}
+
+@font-face {
+    font-family: hind-regular;
+    src: url(../fonts/Hind-Regular.ttf);
+}
+
+
+/* End font section  */
+
+
+/* ******************** */
+
+body p {
+    font-family: Sofia-Pro-Regular !important;
+}
+
+p {
+    font-family: Sofia-Pro-Regular !important;
+    font-size: 14px;
+    color: #727272;
+    line-height: 24px;
+}
+
+a {
+    font-family: 'SourceSansPro-Regular' !important;
+    font-size: 14px !important;
+}
+
+
+/*     .sign-up a {
+    font-weight: 600;
+    font-family: SourceSansPro-Regular !important;
+    font-size: 13px !important;
+} */
+
+h3.main-heading {
+    font-family: SourceSansPro-Bold;
+    font-size: 24px;
+}
+
+.olympiad-boxes .olympiad-content h5 {
+    font-weight: 600;
+    font-family: Sofia-Pro-Regular-Az !important;
+    font-size: 17px;
+}
+
+.number-style span {
+    font-size: 40px;
+    font-family: SourceSansPro-Regular;
+}
+
+.comtt-content h5 {
+    font-family: SourceSansPro-Bold !important;
+    font-size: 16px;
+}
+
+.comtt-content p {
+    font-size: 12px;
+    font-family: 'Sofia-Pro-Medium' !important;
+}
+
+.clc-content h4 {
+    font-size: 16px;
+    font-family: 'SourceSansPro-SemiBold' !important;
+}
+
+.clc-content p {
+    /*    font-family: 'SourceSansPro-Regular' !important; */
+    font-size: 13px;
+}
+
+.main-heading-blog {
+    font-family: SourceSansPro-Bold;
+    font-size: 25px;
+}
+
+.title-tag-blog {
+    font-family: Sofia-Pro-Regular !important;
+    font-size: 14px;
+}
+
+.row.blog-slide-left h3 {
+    font-size: 16px;
+    font-family: 'SourceSansPro-SemiBold' !important;
+}
+
+.row.blog-slide-left p {
+    font-family: Sofia-Pro-Regular !important;
+    font-size: 14px;
+}
+
+.row.blog-slide-right h3 {
+    font-size: 16px;
+    font-family: 'SourceSansPro-SemiBold' !important;
+}
+
+.row.blog-slide-right p {
+    font-family: Sofia-Pro-Regular !important;
+    font-size: 14px;
+}
+
+.slider-vplay-btn span:last-child {
+    font-size: 20px;
+    /*  font-family: "Roboto Slab", serif; */
+}
+
+header .main-menu nav.navbar .navbar-collapse ul.navbar-nav li a {
+    font-family: SourceSansPro-Regular;
+    /*  font-weight: 600; */
+    font-size: 14px;
+}
+
+.search-wrap .form-control {
+    /*  font-family: "Roboto Slab", sans-serif; */
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.slider .slider-caption .caption-content p {
+    font-size: 20px;
+    /*  font-family: "Roboto Slab", serif; */
+}
+
+.slider .slider-bottom-boxes .about-boxes a ul li {
+    font-size: 24px;
+    /*font-weight: 600; */
+    /*  font-family: "Roboto Slab", serif; */
+}
+
+.courses .course-slide .course-single .course-thumb span.price {
+    /*  font-family: "Roboto Slab", serif; */
+    font-size: 27px;
+}
+
+.courses .course-slide .course-single .course-details .course-teacher ul li h4 {
+    /*  font-family: "Roboto", sans-serif; */
+    font-size: 15px;
+}
+
+.teachers .teachers-block .teacher-single .teacher-details h4 {
+    font-size: 15px;
+    font-weight: 400;
+    /*  font-family: "Roboto", sans-serif; */
+}
+
+.video .video-play-btn a {
+    font-size: 20px;
+    /*  font-family: "Roboto Slab", serif; */
+}
+
+.footer-bottom p {
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.video-style02 .video-counter span {
+    /*   font-family: "Roboto Slab", serif; */
+    font-size: 60px;
+    /*font-weight: 600; */
+}
+
+.blog .blog-posts02 .single-blog .blog-excerpt span {
+    font-size: 17px;
+    /*  font-family: "Roboto Slab", serif; */
+}
+
+.footer-style02 .footer-top-subscribe form .form-group input {
+    font-weight: 300;
+    font-size: 20px;
+    /* font-family: "Roboto Slab", serif; */
+}
+
+.footer-style02 .footer-top-subscribe form .form-group button {
+    font-weight: 300;
+    font-size: 20px;
+    /*  font-family: "Roboto Slab", serif; */
+}
+
+.counter-cta .counters span:first-child {
+    font-size: 60px;
+    /*   font-family: "Roboto Slab", serif;   */
+    /*font-weight: 600; */
+}
+
+.course-wrapper .course-style04 .course-single .cs-text a.view-btn {
+    /*  font-family: "Roboto", serif; */
+    font-size: 14px;
+    font-weight: 500;
+}
+
+header.header-style05 .main-menu nav.navbar .navbar-collapse ul.navbar-nav li a {
+    /* font-family: "Sniglet", cursive; */
+}
+
+footer.footer02 .widget.contact-widget form button,
+footer.footer02 .widget.subscribe form button {
+    /* font-family: "Sniglet", cursive; */
+}
+
+.about06 .about-boxes a ul li {
+    font-size: 24px;
+    /*font-weight: 600; */
+    /* font-family: "Roboto Slab", serif; */
+}
+
+.driving-cta .driving-video .video-play span {
+    font-size: 20px;
+    /*  font-family: "Roboto Slab", serif; */
+}
+
+.footer-top-subscribe form .form-group input,
+.footer-top-subscribe form .form-group button {
+    font-size: 20px;
+    /*   font-family: "Roboto Slab", serif; */
+}
+
+.coming-soon .cs-content .cs-form form button {
+    font-size: 31px;
+    /*font-weight: 600; */
+    /*  font-family: "Roboto Slab", serif; */
+}
+
+.faq-wrapper .faq-tabs .panel-group .panel .panel-heading h4.panel-title a {
+    font-family: SourceSansPro-Bold;
+}
+
+.footer-bottom02 p {
+    /*  font-family: inherit; */
+}
+
+.foot-top-new {
+    margin-top: -15px;
+}
+
+.widget.links.foot-top-new .list-unstyled {
+    margin-top: -15px;
+}
+
+.exam-btn {
+    font-family: Sofia-Pro-Regular !important;
+}
+
+.olympiad-boxes .olympiad-content h5 {
+    font-family: 'SourceSansPro-Bold' !important;
+    /*   font-family: Sofia-Pro-Bold; */
+}
+
+.registration-content h4 {
+    font-family: 'SourceSansPro-Bold' !important;
+    font-size: 16px;
+}
+
+.blog-button a {
+    font-family: 'SourceSansPro-Regular';
+    font-size: 14px;
+}
+
+.widget-content {
+    padding-right: 0px;
+    margin-top: 0px;
+    font-size: 14px;
+    font-family: SourceSansPro-Regular;
+}
+
+.text-center.text-peo h5 {
+    font-family: SourceSansPro-SemiBold;
+    font-size: 18px;
+    text-align: center;
+}
+
+.text-syll p {
+    font-size: 13px;
+    font-family: Sofia-Pro-Regular;
+}
+
+.text-syll h4 {
+    font-size: 18px;
+    font-family: Sofia-Pro-Medium;
+}
+
+.text-syll h6 {
+    font-size: 16px;
+    font-family: Sofia-Pro-Medium;
+}
+
+.tz-gallery .lightbox:before {
+    font-size: 26px;
+    font-family: 'Glyphicons Halflings';
+}
+
+
+/* contact */
+
+.contact-left h3 {
+    font-family: SourceSansPro-Bold;
+    font-size: 31px;
+}
+
+.contact-left p {
+    /*  font: normal normal 600 36px/51px Source Sans Pro; */
+    font-size: 14px;
+}
+
+.contact-right h3 {
+    font-family: SourceSansPro-Bold;
+    font-size: 31px;
+}
+
+.contact-right p {
+    /*  font: normal normal 600 36px/51px Source Sans Pro; */
+    font-size: 14px;
+}
+
+
+/*   .blog-meta h2 {
+    font-size: 28px;
+    font-family: SourceSansPro-Bold !important;
+} */
+
+
+/* registration */
+
+.bottom-registration p {
+    font-size: 14px;
+    font-family: Sofia-Pro-Bold !important;
+}
+
+.striped-registration h3 {
+    font-family: SourceSansPro-SemiBold;
+}
+
+.register-head span {
+    font-family: SourceSansPro-SemiBold;
+}
+
+.top-striped-heading {
+    background: #D1FFF9;
+}
+
+.top-striped-heading h3 {
+    font-size: 20px;
+    padding: 10px 0px;
+    margin: auto;
+    font-family: SourceSansPro-SemiBold;
+}

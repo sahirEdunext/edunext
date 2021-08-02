@@ -1,0 +1,85 @@
+
+/* top header section */
+li.sideline:after {
+    content: "";
+    display: block;
+    width: 2px;
+    height: 25px;
+    background: #f1eaea;
+    position: absolute;
+    left: 159px;
+    top: 10px;
+}
+
+
+/* student corner HOW TO PARTICIPATE */
+.top-striped-heading {
+    margin: 30px 0px 0px 0px;
+    padding: 0px;
+       background: #E2F2FF;
+}
+
+.exam-detail-innr, .container.gallery-container {
+    margin-top: 20px;
+}
+
+section.studentcorn1 {
+       margin-bottom: 50px;
+}
+
+
+
+/* .top-striped-heading {
+    background: #D1FFF9;
+} */
+
+.bottom-striped p {
+   color: #7E7E7E;
+    text-align: left;
+    font-size: 14px;
+    /* margin-top: 25px; */
+}
+
+.bottom-striped p span {
+   color: #F58020 !important;
+}
+
+
+.bottom-striped h3 {
+    margin-top: 40px;
+    color: #14B9A4;
+}
+
+.last-stdsection{
+	margin-bottom: 50px;
+}
+
+/* End student corner HOW TO PARTICIPATE */
+
+
+
+
+
+
+/* blog section */
+
+
+.blog-wrapper .blog-sidebar .sidebar-widget .widget-content.latest-news .news-single .news-excerpt h4 a:hover {
+    color: #F58020;
+}
+
+
+
+/* end blog section */
+
+
+
+/* start blog1********** */
+
+
+
+
+
+
+
+/*end start blog1********** */

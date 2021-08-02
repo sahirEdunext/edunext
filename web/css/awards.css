@@ -1,0 +1,151 @@
+/* css for old page awards.... */
+
+p.award-star-min {
+    color: #F36711;
+    font-family: 'SourceSansPro-SemiBold' !important;
+    font-size: 15px;
+}
+
+h3 {
+    font-family: SourceSansPro-SemiBold !important;
+    font-size: 20px !important;
+}
+
+th {
+    font-size: 14px;
+    font-family: SourceSansPro-SemiBold;
+}
+
+td {
+    font-size: 14px;
+    font-family: Sofia-Pro-Regular;
+}
+
+.top-td {
+    font-size: 20px;
+    color: #14B9A4;
+}
+
+.head {
+    width: 100%;
+    padding: 16px;
+    background: #D1FFF9;
+}
+
+.exam-detail {
+    margin: 30px 0px;
+}
+
+.head h1 {
+    font-size: 18px;
+    margin: 0;
+    float: left;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+#sticky-wrapper {
+    box-shadow: 0 0 10px rgb(0 0 0 / 13%);
+}
+
+.awards-hd {
+    margin: 30px 0px;
+}
+
+.awards-innr h3 {
+    font-weight: 500;
+    font-size: 16px;
+    color: #F58020;
+}
+
+.awards-tbl {
+    font-family: SourceSansPro-SemiBold !important;
+    float: left;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    margin: 20px 0px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.awards-tbl tr:first-child {
+    color: #14B9A4;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.awards-tbl tr:nth-child(2) {
+    color: #F58020;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+/* css for awards for new awards-student******************* */
+
+.award-student {
+    margin-top: 50px;
+}
+
+.award-table-portion {
+    margin-top: 20px;
+}
+
+.top-awards-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.top-awards-heading .top-left-img {
+    display: inline-block;
+    margin-top: -50px;
+}
+
+.top-awards-heading img {
+    position: relative;
+    right: 30px;
+    top: 25px;
+    width: 80px;
+    height: auto;
+}
+
+.award-student-table1 thead tr th {
+    font-family: SourceSansPro-SemiBold !important;
+    text-align: center;
+    font-size: 18px;
+    color: #F36711;
+    background-color: #f9f9f9;
+    border: 1px solid #2b2f5433 !important;
+}
+
+.award-student-table1 tbody tr th {
+    border-left: 1px solid #2b2f5433;
+    border-right: 1px solid #2b2f5433;
+    color: #2b2f5480;
+    font-size: 18px;
+    font-family: Sofia-Pro-Medium !important;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.award-student-table1 tr td:last-child {
+    text-align: center;
+}
+
+.award-student-table1 tr td {
+    border-left: 1px solid #2b2f5433;
+    border-right: 1px solid #2b2f5433;
+    border-top: none !important;
+    padding: 12px !important;
+}
+
+.award-student-table1 tr:last-child {
+    border-bottom: 1px solid #2b2f5433;
+}
+
+.award-student-table1 tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}

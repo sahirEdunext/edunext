@@ -1,0 +1,184 @@
+
+.olympiad-boxes {   
+      display: flex;
+    margin: 30px 0 20px 0px;
+    align-items: center;
+ }
+
+
+.registration-boxes {    
+    margin: 30px 0;
+}
+.background-exam {
+   
+    background-position: 0px 68px;
+   
+    background-size: 100%;
+}
+
+
+.Olympiad-innr {
+    width: 100%;
+ float: left;
+  
+}
+
+.custom-space{
+    padding:0 0;
+}
+
+.number-style span {
+    margin-top: -5px;
+    display: block;
+    font-weight: 600;
+    font-size: 35px;
+}
+.olmy-process .card {
+   
+    box-shadow: 0px 1px 3px #00000029 !important;
+}
+.text-peo {
+    padding: 0px 5px;
+}
+.text-peo p {
+   
+    font-size: 14px;
+   
+}
+
+.card-syll {
+    
+    box-shadow: 0px 3px 6px #00000029;
+    
+}
+.text-syll p {
+   
+    font-size: 14px;
+}
+
+.text-syll h6 {
+    margin-top: 0;
+    
+    margin-bottom: 35px;
+   
+   
+}
+.background-sayllabus {
+    
+    background-position: 20px -5px;
+    
+    background-size: 100%;
+}
+.img-syll {
+
+    top: 8%;
+}
+
+.card-syll {
+    
+    height: 340px;
+    padding: 0;
+   
+}
+.text-syll {
+    
+    top: 35%;
+}
+
+.btn-custom {
+
+    padding: 5px 15px;
+   
+    font-size: 14px;
+}
+.clc-content h4 {
+   
+}
+.clc-content p {
+    
+    
+    
+}
+.exam-inner {
+    width: 100%;
+    float: left;
+  
+}
+.classlist-card {
+    margin: 22px 20px 0px 0px;
+    padding: 10px 15px;
+    border-left: 5px solid #F58020;
+    box-shadow: 0px 3px 6px #00000029;
+}
+
+.clc-button {
+    flex: 0%;
+    margin-top: 10px;
+}
+.clc-button a {
+    padding: 4px 11px;
+    border-radius: 24px;
+}
+.blog-item-slide {
+    padding: 20px 0px 0px 0px;
+}
+/* .blog-content {
+    margin-right: 114px;
+} */
+.blog-button a {
+    
+    padding: 8px 20px;
+    border-radius: 25px;
+    
+   
+}
+.olmy-inner {
+    width: 100%;
+    float: left;
+   
+}
+
+
+
+ul.list-unstyled img {
+    max-width: 30px;
+}
+
+
+.olmy-syllabus img {
+    padding: 0px; 
+    width: auto;
+}
+.syll {
+    padding:0;
+}
+
+.clc-content {
+    flex: 58%;
+}
+section.customer-logos.slider.slick-initialized.slick-slider {
+    padding: 0 0px;
+}
+.counter-home {
+        margin: 10px 0px 0px 0px;
+    padding: 35px 0px 35px 0px;
+   
+   /*  margin: 10px 0px 0px 0px;
+    padding: 35px; */
+}
+.syllabus-inner {
+    float: left;
+    width: 100%;
+   
+}
+
+.classes-list {
+    width: 100%;
+    float: left;
+   
+}
+
+footer .widget.footer-social .widget-content ul li {
+    display: inline-block;
+    margin-right: 10px;
+}

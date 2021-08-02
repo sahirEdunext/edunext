@@ -1,0 +1,632 @@
+@media (min-width: 1680px) and (max-width: 1920px) {
+    /* Start Responsive for large section */
+    .right-alu-login {
+           padding: 30px 60px;
+            }
+
+    .custom-modal-content.modal-content.login-modal-content {
+        top: 160px;
+    }
+    .right-sign-part {
+        width: 45%;
+        margin: auto;
+    }
+
+    .left-sec-signup {
+           top: 70px;
+    }
+    .reg-modal-content {
+        top: 160px;
+    }
+
+    .reg-modal-content1 {
+        top: 200px;
+    }
+
+    .alu-login-box-top {
+        width: 120px;
+    }
+
+
+    .alu-left-otp {
+        border-radius: 6px 0px 0px 6px !important;
+        background-color: #f6f7f8;
+        width: 40%;
+        padding: 35px 40px;
+    }
+
+    .register-option-bottom .sch-subcription {
+        padding-right: 40px !important;
+    }
+    /* End Responsive for large section */
+
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    /* Start Responsive for tab section */
+    /*.registration-boxes {*/
+        /*margin: 25px 0px 25px 0px;*/
+    /*}*/
+
+
+    .olympiad-boxes .olympiad-icon img {
+        width: 55px;
+    }
+
+    .registration-content h4 {
+              line-height: 1.5;
+           }
+
+    .number-style span {
+        margin-top: 5px;
+        font-size: 30px;
+    }
+
+    /* for banner */
+
+    ul.nav.navbar-nav.sign-section {
+        padding-top: 0px !important;
+        padding-left: 25px;
+    }
+
+    .tp-mask-wrap {
+               padding-left: 86px;
+    }
+    .design-caption-inner h1 {
+        line-height: 0.9 !important;
+        font-size: 32px !important;
+    }
+
+    .design-caption-inner span {
+        font-size: 40px !important;
+    }
+
+    .design-caption-inner p {
+        margin-top: 20px !important;
+        text-align: left;
+        font-size: 12px !important;
+        line-height: 1.5 !important;
+        width: 100% !important;
+    }
+
+    .btn-banner {
+        display: inline-block;
+        padding: 8px 31px !important;
+        margin: auto;
+        float: left;
+        top: 6px !important;
+    }
+
+
+    /* Start Responsive for tab section */
+
+
+    /* End Responsive for tab section */
+
+
+
+    /* index-lot section */
+    .olympiad-boxes .olympiad-content h5 {
+        font-size: 15px !important;
+    }
+
+
+    /* index-blog-section */
+
+
+    .row.blog-slide-left h3 {
+        line-height: 1.2 !important;
+        margin: auto !important;
+    }
+
+    .row.blog-slide-right h3{
+        line-height: 1.2 !important;
+        margin: auto !important;
+    }
+
+
+    /* index-comitee */
+
+    .comtt-content h5{
+        font-size: 12px !important;
+    }
+    .comtt-content p {
+        font-size: 10px !important;
+    }
+
+
+    /* Start for footer section */
+
+
+    .footer-style03 {
+        padding: 30px;
+    }
+
+    footer .widget {
+        margin-bottom: 0;
+        margin-top: 20px;
+    }
+
+    li.address {
+        width: 100% !important;
+    }
+    /* End for footer section */
+
+
+
+
+    /*end tab section*/
+}
+
+@media (min-width: 768px)and (max-width: 800px){
+
+
+    /*school wise students css start here*/
+
+    .class-wise-chart, .student-wise-chart {
+        height: 230px;
+    }
+
+    /*school wise students css end here*/
+
+
+    .alu-login-middle {
+        flex-wrap: wrap;
+    }
+
+    .drp-profile-dropdown {
+        top: 15px;
+    }
+    .triangle-up {
+        display: none;
+    }
+    .container.container-ipadview {
+        width: 100%;
+    }
+
+    .psm-box3-btn {
+         flex-direction: column;
+    }
+    .psm-box3-btn button {
+        margin-bottom: 15px;
+    }
+
+}
+
+@media only screen and (max-width: 767px){
+
+
+    /* for banner part */
+    .btn-banner {
+        border: 1px solid !important;
+        padding: 6px 8px !important;
+        font-size: 10px !important;
+    }
+
+    .design-caption-inner h1{
+        line-height: 1.2 !important;
+        font-size: 14px !important;
+    }
+    .tp-mask-wrap {
+        margin-top: 20px !important;
+    }
+
+
+    .design-caption-inner span {
+        font-size: 18px !important;
+    }
+
+
+    /* *************** for signin* */
+
+	.right-sign-part {
+		padding: 10px;
+	}
+
+    /*for registration form*/
+
+
+
+
+}
+
+
+@media (max-width: 480px){
+
+    .floating-label-wrap .small-form-text .control-label .detail-control{
+        font-size: 10px !important;
+    }
+
+
+
+
+    .alu-login-box-top label.container-radio.option-radio{
+        font-size: 10px !important;
+    }
+
+
+    /*school wise students css start here*/
+
+    .class-wise-chart, .student-wise-chart {
+        height: auto;
+        padding: 10px 10px 2px;
+    }
+
+    .class-wise-chart h5.student-inner-heading {
+        position: static;
+    }
+
+    #container {
+        height: auto;
+
+    }
+
+    .highcharts-container {
+        width:100% !important;
+    }
+
+    .highcharts-legend {
+        transform: translate(8px, 0px);
+    }
+
+    /* school wise students css end here*/
+
+
+
+    .footer.widget-content {
+        font-size: 12px !important;
+    }
+    .footer-bottom a {
+        font-size: 12px !important;
+    }
+
+    .footer-bottom p {
+        font-size: 12px !important;
+    }
+
+    .register-option-bottom .sch-subcription {
+        padding-right: 0px !important;
+    }
+
+    /*banner caption section */
+    .design-caption-inner p {
+        /*height: 38px !important;*/
+        /*overflow: hidden;*/
+        /*text-overflow: ellipsis;*/
+        font-size: 10px!important;
+        line-height: 1.2 !important;
+        width: 180px !important;
+    }
+
+    /*profile */
+
+    .prf-main {
+        margin: 30px auto !important;
+        padding: 0px 20px !important;
+        width: 90% !important;
+    }
+
+    .prf-bottom-lrft.lrft-top-margin {
+        padding-top: 0px !important;
+    }
+
+
+    /*for about us section*/
+    .about-us {
+        padding: 0px 0px 8px 0px;
+    }
+
+
+    section.school-section {
+        padding: 25px !important;
+    }
+
+    .drp-profile-dropdown {
+        top: 15px !important;
+    }
+
+    .drp-login-section {
+        text-align: left;
+    }
+    .triangle-up {
+        display: none;
+    }
+    p.text-user-view {
+        text-align: center;
+    }
+
+
+    /*poppup option section*/
+
+    .register-option-middle {
+        flex-wrap: wrap;
+        margin: auto;
+        justify-content: center;
+        display: flex;
+    }
+
+    .register-option-box {
+        margin-bottom: 20px !important;
+    }
+
+    .reg-modal-content {
+        width: 100% !important;
+        position: absolute;
+        top: 35px;
+        right: 0px;
+        left: 0px;
+    }
+
+    .reg-modal-content1 {
+        border-radius: 6px;
+        width: 100% !important;
+        top: 35px;
+        right: 0px;
+        left: 0px;
+    }
+
+    .register-option-middle-student {
+        margin: auto;
+    }
+
+    .register-option-middle-teacher {
+        margin: auto;
+    }
+
+    .register-option-middle-school{
+        margin: auto;
+    }
+
+
+    /*signin part in css*/
+
+    .alu-right {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .alu-left-otp {
+        display: none;
+    }
+
+    .alu-login-middle {
+        flex-wrap: wrap;
+    }
+
+    .alu-login-box-top {
+        width: 80px;
+        margin-bottom: 10px;
+        border-radius: 4px;
+        border: 1px dashed #F3671180;
+        display: flex;
+        align-items: unset;
+        padding: 3px !important;
+    }
+
+    .right-alu-login {
+        width: 290px;
+        padding: 26px 10px;
+    }
+
+/*start page learn */
+.tab-sidebar {
+    height: auto;
+}
+
+.top-tab-header {
+    text-align: center;
+    padding: 30px 0px 0px 60px;
+}
+
+.nav-learntab-top {
+    display: block;
+
+}
+
+.nav-learntab-top li:nth-child(1){
+    margin-top: 20px;
+}
+
+
+.nav-learntab-top li:nth-child(2){
+    margin-top: 20px;
+}
+
+.nav-learntab-top li:nth-child(3){
+    margin-top: 20px;
+}
+
+
+.tab-sidebar{
+    width: 100%;
+}
+
+.tabcontent {
+    padding: 0px 15px 15px 15px;
+    float: none;
+    width: 100%;
+    }
+/* end page learn */
+
+
+/* for banner part */
+.btn-banner {
+    border: 1px solid !important;
+    padding: 9px !important;
+    font-size: 10px !important;
+    }
+
+    .design-caption-inner h1{
+        line-height: 1 !important;
+        font-size: 14px !important;
+    }
+
+    .banner-mobile h1{
+        line-height: 1 !important;
+        font-size: 14px !important;
+         }
+
+
+    .tp-mask-wrap {
+        margin-top: 15px !important;
+    }
+
+
+    .design-caption-inner span {
+        font-size: 14px !important;
+    }
+
+.custom-space {
+padding: 0 0px;
+}
+
+/*Start register page */
+
+.bottom-registration {
+    text-align: center;
+    display: block !important;
+}
+
+
+.bottom-registration a {
+margin-top: 20px;
+}
+
+/*End register page */
+
+
+
+/* StartAbout us page */
+
+.about-us-inner p
+{
+text-align: left;
+}
+
+/* End About us page */
+
+
+/* start blog-new */
+.leftimg-section {
+    margin: auto 83px;
+}
+
+.blog-left-content {
+    text-align: justify;
+    margin-top: 6px;
+}
+
+ .blog-pagination {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+
+    .bottom-blog {
+    padding: 5px;
+}
+
+.blog-back1 {
+    margin-top: 0px;
+    }
+
+/* end blog-new */
+
+
+
+/*Start index-blog-section */
+.title-tag-blog {
+    color: #1C1C1C;
+    font-size: 10px !important;
+    text-align: justify !important;
+    width: 90% !important;
+    line-height: 1.5;
+}
+
+.blog-slide-content {
+    text-align: center;
+}
+
+
+.blog-button a {
+    padding: 4px 12px !important;
+    }
+
+/* End index-blog-section */
+
+
+/* index-class */
+.classlist-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.clc-content {
+    text-align: center;
+}
+/* index-class */
+
+    /* index-class */
+    /* start css for responsive form */
+
+    .heading-ragistration.heading-ragistration-right {
+        float: none !important;
+    }
+
+    .heading-ragistration h2 {
+        text-align: center !important;
+        font-size: 20px !important;
+    }
+    .top-detail-student h3 {
+        font-size: 17px !important;
+    }
+    .top-detail-school h3 {
+        font-size: 17px !important;
+    }
+    .top-detail-school h3 {
+        font-size: 17px !important;
+    }
+    section.detail-section {
+        padding: 10px 20px 10px 20px !important;
+    }
+    .sch-content h3 {
+        text-align: center !important;
+    }
+    .sch-btn {
+        justify-content: center !important;
+    }
+    .bos-sub1 {
+        flex-direction: column !important;
+    }
+    .bos-sub2 {
+        flex-direction: column !important;
+    }
+    .bos-sub {
+        flex-direction: column !important;
+    }
+    .sch-subcription-content p {
+        text-align: center;
+    }
+    .sch-subcription {
+        justify-content: center !important;
+    }
+    /* End css for responsive form */
+    /* section pay sucessful */
+    .pay-succes-main {
+        flex-direction: column !important;
+    }
+
+    .psm-box2-botom p {
+        font-size: 12px !important;
+    }
+    /* end pay sucessful */
+
+
+
+}
+
+

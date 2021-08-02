@@ -1,0 +1,114 @@
+/*start css for gallery portion */
+
+/* .container.gallery-container {
+    background-color: #fff;
+    color: #35373a;
+    min-height: 100vh;
+    padding: 30px 50px;
+} */
+
+
+/* Start custom gallery***** */
+.customgallery-caption {
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    position: relative;
+    top: -30px;
+    bottom: 0;
+}
+
+.customgallery-caption p {
+    color: #14B9A4;
+    font-family: SourceSansPro-SemiBold !important;
+    font-size: 14px;
+}
+
+.gallery-down-button a {
+    font-family: Sofia-Pro-Regular;
+    font-size: 12px;
+}
+
+.customgallery-caption-mc p {
+    font-size: 14px;
+    color: #1C1C1C;
+    line-height: 0.5;
+  font-family: SourceSansPro-SemiBold !important;
+    position: relative;
+    top: -35px;
+}
+
+.customgallery-caption-mc p:last-child {
+    font-size: 12px;
+    font-family: SourceSansPro-SemiBold !important;
+  color:#F58020 ;
+}
+
+/* .customgallery-caption-mc p:last-child:hover {
+  color:#F58020 ;
+} */
+
+/*End  custom gallery***** */
+
+
+
+
+.tz-gallery {
+    padding: 0px 10px;
+}
+
+/* Override bootstrap column paddings */
+.tz-gallery .row > div {
+    padding: 2px;
+}
+
+.tz-gallery .lightbox img {
+           padding: 0 40px 50px 0px;
+    width: 100%;
+    border-radius: 0;
+    position: relative;
+}
+
+.tz-gallery .lightbox:before {
+   position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-top: -13px;
+    margin-left: -13px;
+    opacity: 0;
+    color: #fff;
+    content: '\f00e';
+    pointer-events: none;
+    z-index: 9000;
+    transition: 0.4s;
+    font-family: 'FontAwesome';
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+}
+
+
+.tz-gallery .lightbox:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 89%;
+    height: 70%;
+    opacity: 0;
+    background: #f58020bd;
+    content: '';
+    transition: 0.4s;
+}
+
+.tz-gallery .lightbox:hover:after,
+.tz-gallery .lightbox:hover:before {
+    opacity: 1;
+}
+
+.baguetteBox-button {
+    background-color: transparent !important;
+}
+
+@media(max-width: 768px) {
+   
+}
+/* end gallery */
