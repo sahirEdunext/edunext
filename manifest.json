@@ -1,0 +1,41 @@
+{
+  "dir": "ltr",
+  "lang": "eng",
+  "name": "learn o test",
+  "short_name": "learn o test",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "transparent",
+  "description": "Learning made simple",
+  "orientation": "portrait",
+  "prefer_related_applications": false,
+
+  "icons": [
+    {
+      "sizes": "180x180",
+      "type": "image/png",
+      "src": "Assets.xcassets/AppIcon.appiconset/180.png"
+
+    },
+    {
+      "sizes": "80x80",
+      "type": "image/png",
+      "src": "Assets.xcassets/AppIcon.appiconset/80.png"
+
+    },
+    {
+      "sizes": "120x120",
+      "type": "image/png",
+      "src": "Assets.xcassets/AppIcon.appiconset/120.png"
+
+    },
+    {
+      "sizes": "57x57",
+      "type": "image/png",
+      "src": "Assets.xcassets/AppIcon.appiconset/57.png"
+
+    }
+  ]
+}
